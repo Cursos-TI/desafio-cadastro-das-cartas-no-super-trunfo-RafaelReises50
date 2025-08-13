@@ -1,4 +1,4 @@
-
+//atividade super trunfo
 #include <stdio.h>
 
 int main() {
